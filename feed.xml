@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>B&W Garage Door Specialists - Garage Door Fix News</title>
+    <link>https://{username}.github.io/{repo}</link>
+    <description>Latest garage door fix news and tips from B&W Garage Door Specialists in Calgary, Alberta.</description>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Mar 2026 19:38:40 GMT</lastBuildDate>
+    <atom:link href="https://{username}.github.io/{repo}/feed.xml" rel="self" type="application/rss+xml"/>
+    <managingEditor>info@bnwgaragedoors.ca (B&W Garage Door Specialists)</managingEditor>
+    <webMaster>info@bnwgaragedoors.ca (B&W Garage Door Specialists)</webMaster>
+    
+  </channel>
+</rss>
